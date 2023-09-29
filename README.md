@@ -64,8 +64,5 @@ Enter the MAC address of the bluetooth device when prompted.
 
 The tool will display the latitude and longitude of the bt device's location.
 
-## License
-This tool is licensed under the MIT license. See the LICENSE file for more information.
-
 ## Acknowledgments
-This tool was created using the Wigle.net API and the trilateration algorithm developed by Thomas Pototschnig. Thanks to the developers of these tools for making this project possible.
+This tool was created using the Wigle.net API and the trilateration algorithm.
